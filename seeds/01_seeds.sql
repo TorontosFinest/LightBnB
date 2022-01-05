@@ -14,6 +14,6 @@ VALUES (1,'Matrix','description','https://images.pexels.com/photos/2121121/pexel
  (3,'Biscotti','description','https://images.pexels.com/photos/2080018/pexels-photo-2080018.jpeg?auto=compress&cs=tinysrgb&h=350','https://images.pexels.com/photos/2080018/pexels-photo-2080018.jpeg',145,2,2,3,'canada','15 Jane Doe Ave','Toronto','Ontario','m8hk2j',true);
 
 INSERT INTO property_reviews (guest_id,property_id,reservation_id,rating,message)
-VALUES (1,1,4,9,'message'),
-(2,2,5,7,'message'),
-(3,3,6,10,'message');
+VALUES (1,1,4,4,'message'),
+(2,2,5,5,'message'),
+(3,3,6,4,'message');
